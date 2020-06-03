@@ -1,0 +1,18 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "Transport_DWH Cube"
+    },
+    "role": {
+      "name": "SKurapati",
+      "modelPermission": "readRefresh",
+      "members": [
+        {
+          "memberName": "XPO\\skurapati",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-9767"
+        }
+      ]
+    }
+  }
+}
+

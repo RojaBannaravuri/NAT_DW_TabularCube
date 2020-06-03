@@ -1,0 +1,134 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "Transport_DWH Cube"
+    },
+    "role": {
+      "name": "Users_Access",
+      "modelPermission": "readRefresh",
+      "members": [
+        {
+          "memberName": "XPO\\treid",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-47123"
+        },
+        {
+          "memberName": "XPO\\csmart",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-57591"
+        },
+        {
+          "memberName": "XPO\\jpazer",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-8198"
+        },
+        {
+          "memberName": "XPO\\bjohnson",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-68719"
+        },
+        {
+          "memberName": "XPO\\kregele",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-61175"
+        },
+        {
+          "memberName": "XPO\\csutton",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-1143"
+        },
+        {
+          "memberName": "XPO\\bwalsh",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-22724"
+        },
+        {
+          "memberName": "XPO\\ggamba",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-5200"
+        },
+        {
+          "memberName": "XPO\\DClink",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-13332"
+        },
+        {
+          "memberName": "XPO\\aawright",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-14988"
+        },
+        {
+          "memberName": "AMER\\Gene.Komsky",
+          "memberId": "S-1-5-21-1345468486-1369858424-2487953741-21136"
+        },
+        {
+          "memberName": "XPO\\trscott",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-55197"
+        },
+        {
+          "memberName": "AMER\\Tony.Arend",
+          "memberId": "S-1-5-21-1345468486-1369858424-2487953741-14439"
+        },
+        {
+          "memberName": "AMER\\Ryan.Headley",
+          "memberId": "S-1-5-21-1345468486-1369858424-2487953741-137837"
+        },
+        {
+          "memberName": "XPO\\ekomsky",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-34897"
+        },
+        {
+          "memberName": "XPO\\pcornidez",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-73725"
+        },
+        {
+          "memberName": "XPO\\ceschenbach",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-41781"
+        },
+        {
+          "memberName": "XPO\\rheadley",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-55544"
+        },
+        {
+          "memberName": "XPO\\brianjohnson",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-35399"
+        },
+        {
+          "memberName": "XPO\\epfannenstiel",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-52834"
+        },
+        {
+          "memberName": "XPO\\dcroom",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-64923"
+        },
+        {
+          "memberName": "XPO\\jschnell",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-1167"
+        },
+        {
+          "memberName": "XPO\\bshatsoff",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-67177"
+        },
+        {
+          "memberName": "XPO\\sabwilliams",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-47697"
+        },
+        {
+          "memberName": "XPO\\tspirou",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-24684"
+        },
+        {
+          "memberName": "XPO\\blaghari",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-47698"
+        },
+        {
+          "memberName": "XPO\\krogers",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-13629"
+        },
+        {
+          "memberName": "XPO\\jegiles",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-54924"
+        },
+        {
+          "memberName": "XPO\\ibennis",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-73693"
+        },
+        {
+          "memberName": "XPO\\yamiel",
+          "memberId": "S-1-5-21-887465858-2684228791-3659470179-52584"
+        }
+      ]
+    }
+  }
+}
+

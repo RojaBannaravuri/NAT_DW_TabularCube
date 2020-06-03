@@ -1,0 +1,18 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "Transport_DWH Cube"
+    },
+    "role": {
+      "name": "KurapatiSatya",
+      "modelPermission": "read",
+      "members": [
+        {
+          "memberName": "MENLO\\Kurapati.Satya",
+          "memberId": "S-1-5-21-2068281220-1247041314-592522955-93500"
+        }
+      ]
+    }
+  }
+}
+
